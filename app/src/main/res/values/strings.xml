@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Genap Ganjil</string>
+    <string name="gg">Genap Ganjil Generate</string>
+    <string name="btn">Generate</string>
+    <string name="bil">bilangan</string>
+    <string name="input">Masukan bilangan bulat</string>
+</resources>
